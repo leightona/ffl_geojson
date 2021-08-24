@@ -1,0 +1,131 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Thornton Beach",
+                "waterway_name": "Goulburn River",
+                "country": "AU",
+                "state": "VIC",
+                "waterway_type": "River",
+                "description": "Easy water access with long pools and runs. There is good water above and below the bridge.",
+                "URL": "",
+                "image_url": "",
+                "ffl_marker_type": "access"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.799100,
+                    -37.251955
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Gilmores Bridge",
+                "waterway_name": "Goulburn River",
+                "country": "AU",
+                "state": "VIC",
+                "waterway_type": "River",
+                "description": "One of the most popular stretches of the river, Gilmores Bridge has a fantastic mix of water and fishes well in high and low water.",
+                "URL": "",
+                "image_url": "",
+                "ffl_marker_type": "access"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.76941,
+                    -37.240838
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "The Breakaway",
+                "waterway_name": "Goulburn River",
+                "country": "AU",
+                "state": "VIC",
+                "waterway_type": "River",
+                "description": "There is heaps of water above and below the Breakaway bridge, it has a good mix of weed, runs, pools and sections of broken water.",
+                "URL": "",
+                "image_url": "",
+                "ffl_marker_type": "access"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    145.711145,
+                    -37.239367
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Willow Grove Boat Ramp",
+                "waterway_name": "Blue Rock Dam",
+                "country": "AU",
+                "state": "VIC",
+                "waterway_type": "Lake",
+                "description": "Boat ramp, but also a very good shoreline to walk and fish for trout. This is a nice protected shoreline in a southerly.",
+                "URL": "",
+                "image_url": "",
+                "ffl_marker_type": "access"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.176213,
+                    -38.059702
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Tanjil River Arm",
+                "waterway_name": "Blue Rock Dam",
+                "country": "AU",
+                "state": "VIC",
+                "waterway_type": "Lake",
+                "description": "The Tanjil arm is full of timber and is a fantastic area to target bass in the summer. ",
+                "URL": "",
+                "image_url": "",
+                "ffl_marker_type": "poi"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.201794,
+                    -38.043368
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "name": "Dam Wall Boat Ramp",
+                "waterway_name": "Blue Rock Dam",
+                "country": "AU",
+                "state": "VIC",
+                "waterway_type": "Lake",
+                "description": "The dam wall boat ramp, there are some good soaks to the west that hold good numbers of fish.",
+                "URL": "",
+                "image_url": "",
+                "ffl_marker_type": "access"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    146.223355,
+                    -38.081959
+                ]
+            }
+        }
+    ]
+}
