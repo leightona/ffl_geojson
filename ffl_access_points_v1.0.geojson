@@ -147,6 +147,27 @@
           -29.4468
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Deepwater TSR",
+        "waterway_name": "Deepwater River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Located approximately 10km north of Deepwater on the New England Highway. Travelling Stock Routes (TSRs) provide convenient access points along this river.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.89285278320312,
+          -29.36975918019755
+        ]
+      }
     }
   ]
 }
