@@ -105,6 +105,27 @@
           -29.44
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Guy Fawkes River",
+        "waterway_name": "Guy Fawkes River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The Guy Fawkes River is a perennial stream in the New England and Northern Tablelands districts of New South Wales. The river is a small meandering stream that winds its way down from its headwaters near the Great Escarpment, through farmland and the township of Ebor, and over the Ebor Falls...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/guy-fawkes-river",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/Guy-Fawkes-River-Thomas-Clancy-FlyLife-0107-1920.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.33708024024963,
+          -30.399344726980726
+        ]
+      }
     }
   ]
 }
