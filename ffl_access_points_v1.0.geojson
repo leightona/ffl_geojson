@@ -198,7 +198,7 @@
         "country": "AU",
         "state": "NSW",
         "waterway_type": "River",
-        "description": "There is fantastic access right in the heart of town, through the Ebor Common. Access is best via Park Street: look for the gate next to the stockyards.",
+        "description": "There is fantastic access right in the heart of town, through the Ebor Common. Access is best via Parke Street: look for the gate next to the stockyards.",
         "URL": "",
         "image_url": "",
         "ffl_marker_type": "access"
@@ -206,8 +206,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          152.345964,
-          -30.40345
+          152.35156,
+          -30.400965
         ]
       }
     },
