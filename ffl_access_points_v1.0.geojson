@@ -168,6 +168,69 @@
           -29.36975918019755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebor Falls Pool",
+        "waterway_name": "Guy Fawkes River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "For the more athletic amongst us, the pool below the first of Ebor’s twin waterfalls can provide some great fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.34382063150406,
+          -30.40251411227257
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ebor Common",
+        "waterway_name": "Guy Fawkes River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "There is fantastic access right in the heart of town, through the Ebor Common. Access is best via Park Street: look for the gate next to the stockyards.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.345964,
+          -30.40345
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Broodstock Release",
+        "waterway_name": "Guy Fawkes River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Often ex-DPI hatchery broodstock are released for the October Long Weekend in the pools under the Waterfall Way bridge.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.347394,
+          -30.404075
+        ]
+      }
     }
   ]
 }
