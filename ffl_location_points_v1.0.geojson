@@ -126,6 +126,69 @@
           -42.191704
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Brumbys Creek",
+        "waterway_name": "Brumbys Creek",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Brumbys Creek is one of Tasmania’s most unique rivers. It is like a tailwater in that it is fed from Great Lake in the Central Highlands via the Poatina Power Station, however, it flows more like a meadow stream...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/brumbys-creek",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.080242,
+          -41.712362
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Hunstman Lake",
+        "waterway_name": "Hunstman Lake",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Created in 2007, Huntsman Lake is a scenic dam nestled atop of the Meander Valley. The lake is surround by forest and is fed by a number of small streams and holds a large population of small wild brown trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/huntsman-lake",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.609668,
+          -41.695881
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Huon River",
+        "waterway_name": "Huon River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "The Huon is a big river, being the fifth longest in the state. Initially the river flows through rugged terrain, lower down it becomes more accessible as it moves through farmland and towns before meeting the sea...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/huon-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.857629,
+          -43.001056
+        ]
+      }
     }
   ]
 }
