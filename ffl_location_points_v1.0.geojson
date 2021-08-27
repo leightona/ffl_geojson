@@ -315,6 +315,195 @@
           -41.6175
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mersey River",
+        "waterway_name": "Mersey River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "The Mersey River is a long watercourse and technically a tail water, however, it has many tributaries running into it as is flows north draining into the Bass Strait at Devonport. The Mersey is a medium sized freestone river...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/mersey-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.47921085357666,
+          -41.48186558077533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "North Esk River",
+        "waterway_name": "North Esk River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "The North Esk is a long river system that forms in the forested valleys of the Northallerton Valley. It winds through a combination of forest and open farm land that features quite a lot of willows along the bank, it then travels through the suburbs of Launceston on its way to form the Tamar River...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/north-esk-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.399978,
+          -41.496192
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Penstock Lagoon",
+        "waterway_name": "Penstock Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "One of the most popular waters in the highlands, Penstock Lagoon is a fly-fishing-only lake known for its mayfly fishing. The lake is shallow and weedy and contains a mix of wild brown trout and stocked rainbow trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/penstock-lagoon",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.768103,
+          -42.093798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pine Tier Lagoon",
+        "waterway_name": "Pine Tier Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Pine Tier is a little gem of a lake situated in the hills off the back of the Central Plateau. It is an intimate lake that is long and narrow with two rivers running in; Pine River and the Nive River...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/pine-tier-lagoon",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.484964,
+          -42.075613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Esk River",
+        "waterway_name": "South Esk River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "The South Esk is the longest and one of the most diverse rivers in Tasmania. You can find fishable water at the source, near Upper Esk, all the way to Trevallyn Dam before it flows into the Tamar River...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/south-esk-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.250057,
+          -41.61365
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "St Patricks River",
+        "waterway_name": "St Patricks River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "The St Patricks River, known as the St Pats, is a stunning freestone stream lined by a combination of willows and native vegetation. This stream holds a large population of wild brown trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/st-patricks-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.3808193206787,
+          -41.307664734440785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tooms Lake",
+        "waterway_name": "Tooms Lake",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Tooms Lake is another lowland water supply along the east coast, located south-west of the town of Ross. Bordered by forest reserve, it is a very scenic waterway to fish. The lake is shallow and has limited natural recruitment...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/tooms-lake",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.791367,
+          -42.231541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyenna River",
+        "waterway_name": "Tyenna River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A beautiful medium-sized river running through Maydena, Tyenna and other quaint country towns, the Tyenna River provides good fly fishing from late spring through to the close of the season. The river is predominantly freestone with some sections of bedrock...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/tyenna-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.7439556121826,
+          -42.6819937243499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Weld River",
+        "waterway_name": "Weld River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A rugged, wild medium-sized, tannin-stained river, the Weld River runs through forest until it meets the Huon River. The wading is challenging with plenty of boulders and timber, however, there is some fantastic fly fishing to be had...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/weld-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.710693,
+          -43.0307
+        ]
+      }
     }
   ]
 }
