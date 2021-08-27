@@ -189,6 +189,48 @@
           -43.001056
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Burbury",
+        "waterway_name": "Lake Burbury",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Lake Burbury is a large and beautiful waterway on the west coast. It contains a good head of rainbow and brown trout. This lake is typically considered as a venue best fished from a boat, purely because of its size...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/lake-burbury",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.660101,
+          -42.102454
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Leake",
+        "waterway_name": "Lake Leake",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "A scenic lake nestled in the hills of the east coast, Lake Leake is surrounded by lowland forest. Due to its lack of height above sea level, it fishes well early in the season before the water warms too much...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/lake-leake",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.823691,
+          -42.011144
+        ]
+      }
     }
   ]
 }
