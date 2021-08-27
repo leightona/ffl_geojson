@@ -504,6 +504,216 @@
           -43.0307
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Coliban River",
+        "waterway_name": "Coliban River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "An intimate little river/creek that flows out of forest into open farmland before flowing into the Upper Coliban Reservoir. The bottom structure of the river is a combination of bedrock, gravel, strap weed and fallen timber...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/coliban-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.329938,
+          -37.36531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eildon Pondage",
+        "waterway_name": "Eildon Pondage",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Located between Lake Eildon and the Goulburn River, ‘the Pondage’ is a medium sized man made lake that holds up water before it is released down the Goulburn River. The lake bottom is quite baron and the structure mostly comes in the form depressions and ledges...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/eildon-pondage",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.917279,
+          -37.233733
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King Parrot Creek",
+        "waterway_name": "King Parrot Creek",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Creek",
+        "description": "A small to medium sized tributary of the Goulburn River, it flows north off the back of the Kinglake National Park through Flowerdale and enters the Goulburn River just upstream of Trawool. The bottom structure of the river varies greatly, it is a mixture of freestone, gravel/sand, bedrock and timber...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/king-parrot-creek",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28732,
+          -37.330338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Fyans",
+        "waterway_name": "Lake Fyans",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Lake Fyans is a very scenic trout fishery located on the eastern side of the Grampians, it is a mostly shallow, medium sized lake with treed shorelines and sandy or rocky edges. The lake features a range of different structure including weed beds, thick rushes and reeds, sandy flats and sunken timber...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/lake-fyans",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.622533,
+          -37.137405
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Purrumbete",
+        "waterway_name": "Lake Purrumbete",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Lake Purrumbete is a crystal clear trout fishery set inside and volcanic crater. It is an extremely fertile lake filled with lush wed beds, an abundance of food and as a result, trout with extremely fast growth rates...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/lake-purrumbete",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.228344,
+          -38.281213
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Wendouree",
+        "waterway_name": "Lake Wendouree",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Lake Wendouree is a unique trout fishery in that it is located in the middle of the rural city of Ballarat. It is a medium sized lake and is very shallow, most of the lake is around five feet deep. It contains of lush weed beds, reed banks, small islands, rocky shorelines...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/lake-wendouree",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.833436,
+          -37.551303
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake William Hovell",
+        "waterway_name": "Lake William Hovell",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "A medium sized dam located on the King River in the King Valley not far from Wangarrata. The lake is surrounded by forest and is well protected from the weather, the lake consists of sand/silt bottoms with some weed beds, timbered bays and rocky ledges...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/lake-william-hovell",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.38952,
+          -36.923006
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Loch River",
+        "waterway_name": "Loch River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The Loch is a small and tight stream that flows into the La Trobe River in Noojee. It has a combination of freestone and gravel bottom and is lined by tree ferns and beautiful green riparian vegetation...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/loch-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.998278,
+          -37.853615
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Big River (Upper Mitta Mitta)",
+        "waterway_name": "Big River (Upper Mitta Mitta)",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Arguably Victoria’s best high country trout river, the Mitta Mitta is a pristine medium to large sized freestone river with a large population of brown and rainbow trout. This river originates in the Alpine National park and flows through the Omeo Valley on its way into Lake Dartmouth...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/big-river-mitta-mitta-upper",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.465439,
+          -36.92408
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mitta Mitta River (Upper)",
+        "waterway_name": "Mitta Mitta River (Upper)",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Arguably Victoria’s best high country trout river, the Mitta Mitta is a pristine medium to large sized freestone river with a large population of brown and rainbow trout. This river originates in the Alpine National park and flows through the Omeo Valley on its way into Lake Dartmouth...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/mitta-mitta-upper",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.65011310577393,
+          -36.83491259516247
+        ]
+      }
     }
   ]
 }
