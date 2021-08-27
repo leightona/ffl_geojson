@@ -294,6 +294,27 @@
           -41.760935
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meander River ",
+        "waterway_name": "Meander River ",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "The Meander River is a tailwater that runs out of Huntsman Dam, flowing through forest and then farmland on its journey to join the South Esk River. It flows cold and clear all season long and contains a good population of wild brown trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/meander-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.61342,
+          -41.6175
+        ]
+      }
     }
   ]
 }
