@@ -25,27 +25,6 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Thredbo River",
-        "waterway_name": "Thredbo River",
-        "country": "AU",
-        "state": "NSW",
-        "waterway_type": "River",
-        "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
-        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/thredbo-river",
-        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/Thredbo-River-NSW-FlyLife-1920.jpg",
-        "ffl_marker_type": "location"
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          148.3231544494629,
-          -36.49563052943178
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "name": "Blue Rock Dam",
         "waterway_name": "Blue Rock Dam",
         "country": "AU",
@@ -103,6 +82,48 @@
         "coordinates": [
           152.346197,
           -30.403503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Authurs Lake",
+        "waterway_name": "Authurs Lake",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "One of the most well know and popular fisheries in Tasmania’s central plates, Arthurs lake is a large body of water managed for hydro electricity generation. It holds a large population of wild brown trout that are self sustaining, spawning in the many creeks and streams running into the lake...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/authurs-lake",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.934,
+          -41.974886
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bronte Lagoon",
+        "waterway_name": "Bronte Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "There are great grassy shorelines around the lake that you can expect to find tailing trout along, so long as the water level is high. Early season wet fly fishing is very good, with plenty of structure to focus on including weed beds, rocky shorelines, points and fallen timber...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/bronte-lagoon",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.486307,
+          -42.191704
         ]
       }
     }
