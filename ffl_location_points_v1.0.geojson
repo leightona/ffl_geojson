@@ -231,6 +231,69 @@
           -42.011144
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake St Clair",
+        "waterway_name": "Lake St Clair",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Arguably the most scenic lake in Tasmania and located within the Cradle Mountain-Lake St Clair National Park, Lake St Clair is a trekking destination as part of the Overland Track and a stunning wild brown and rainbow trout fishery...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/lake-st-clair",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.185965,
+          -42.106115
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Little Pine Lagoon",
+        "waterway_name": "Little Pine Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Little Pine Lagoon is one of Australia’s best-known wild brown trout fisheries and is dedicated fly-fishing-only water. It is fed from the Little Pine River and releases water down the Monpeelyata Canal to Lake Echo...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/little-pine-lagoon",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.602411,
+          -42.001323
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macquarie River",
+        "waterway_name": "Macquarie River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "he Macquarie River is a picturesque slow flowing meadow stream with banks lined by grass and tussocks and some sections of willows. Running through the midlands of Tasmania, this river provides plenty of access to anglers...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/macquarie-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.206626,
+          -41.760935
+        ]
+      }
     }
   ]
 }
