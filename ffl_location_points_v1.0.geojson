@@ -798,6 +798,90 @@
           -37.271382
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Steavenson River",
+        "waterway_name": "Steavenson River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A beautifully clear freestone stream that holds a large population of wild brown and rainbow trout. It is one of the most popular fly fishing rivers in Victoria due to its productivity, access and proximity to Melbourne...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/steavenson-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.7402,
+          -37.467447
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Toorongo River",
+        "waterway_name": "Toorongo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A beautiful, small scenic river that flows out of temperate rainforest into open farmland before meeting the La Trobe River. High in the system the river is crystal clear and the bottom freestone featuring larger boulders...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/toorongo-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.043068,
+          -37.853435
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Wombat Reservoir",
+        "waterway_name": "Wombat Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Wombat Reservoir is very scenic and intimate lake surround forest located near the town of Daylesford. It is domestic water supply with good water quality and a good population of brown trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/wombat-reservoir",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.176459,
+          -37.394577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Yarra River (upper)",
+        "waterway_name": "Yarra River (upper)",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A very underrated trout stream close to Melbourne, the Yarra River is a medium sized tailwater that flows from the Upper Yarra Reservoir and empties into Port Phillip Bay in Melbourne. Naturally the best trout fishing is up in the higher sections...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/yarra-river-upper",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.67812353372574,
+          -37.75562584989249
+        ]
+      }
     }
   ]
 }
