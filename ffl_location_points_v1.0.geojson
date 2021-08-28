@@ -777,6 +777,27 @@
           -36.878363
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rubicon River",
+        "waterway_name": "Rubicon River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A popular freestone river flowing out of forest and then through farmland before in joins the Goulburn River. The upper section is fast flowing and features many large boulders and pocket water...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/rubicon-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.795294,
+          -37.271382
+        ]
+      }
     }
   ]
 }
