@@ -714,6 +714,69 @@
           -36.83491259516247
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Newlyn Reservoir",
+        "waterway_name": "Newlyn Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "A medium sized water storage located west of Melbourne near the towns of Daylesford and Creswick. The lake is surrounded by farmland with a combination of grassy, rocky and willowed shorelines...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/newlyn-reservoir",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.007575,
+          -37.407188
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ovens River",
+        "waterway_name": "Ovens River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The Ovens River is clear freestone high country stream that originates in the Victorian Alps. It flows through a combination of forest, plantations and farmland on its journey to join the Murray River above Lake Mulwala...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/ovens-river",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.011514,
+          -36.737764
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Rocky Valley Storage",
+        "waterway_name": "Rocky Valley Storage",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Rocky Valley Storage reservoir is a beautiful alpine water storage located next to Falls Creek. As the name suggests the lake is very rocky and barren with limited grass and weed, despite this the lake has an extremely large population of small wild brown and rainbow trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/rocky-valley-storage",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.297346,
+          -36.878363
+        ]
+      }
     }
   ]
 }
