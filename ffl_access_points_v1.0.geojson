@@ -231,6 +231,63 @@
           -30.404075
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cowpaddock Bay",
+        "waterway_name": "Arthurs Lake",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Great bay with rocks and weed, this bay is known for it’s mayfly hatches.",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.906597,
+          -41.915582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Seven Pound Bay",
+        "waterway_name": "Arthurs Lake",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "A nice shallow rocky and weedy bay that fishes well by boat or land based.",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.91567,
+          -41.937457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Arthurs Lake",
+        "name": "Pumphouse Bay",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "A nice weedy bay with some timber, easy access to the lake close to the main road.",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.868253,
+          -41.997078
+        ]
+      }
     }
   ]
 }
