@@ -88,13 +88,13 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Authurs Lake",
+        "name": "Arthurs Lake",
         "waterway_name": "Authurs Lake",
         "country": "AU",
         "state": "TAS",
         "waterway_type": "Lake",
         "description": "One of the most well know and popular fisheries in Tasmania’s central plates, Arthurs lake is a large body of water managed for hydro electricity generation. It holds a large population of wild brown trout that are self sustaining, spawning in the many creeks and streams running into the lake...",
-        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/authurs-lake",
+        "URL": "https://flylife.com.au/fly-fishing/australia/tasmania/arthurs-lake",
         "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/authurs-lake-tasmania-satellite-1920-300x200.jpg",
         "ffl_marker_type": "location"
       },
