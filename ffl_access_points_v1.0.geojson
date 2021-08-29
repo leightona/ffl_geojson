@@ -241,7 +241,9 @@
         "state": "TAS",
         "waterway_type": "Lake",
         "description": "Great bay with rocks and weed, this bay is known for it’s mayfly hatches.",
-        "ffl_marker_type": "point of interest"
+        "ffl_marker_type": "point of interest",
+        "URL": "",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -260,7 +262,9 @@
         "state": "TAS",
         "waterway_type": "Lake",
         "description": "A nice shallow rocky and weedy bay that fishes well by boat or land based.",
-        "ffl_marker_type": "point of interest"
+        "ffl_marker_type": "point of interest",
+        "URL": "",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
@@ -279,7 +283,9 @@
         "state": "TAS",
         "waterway_type": "Lake",
         "description": "A nice weedy bay with some timber, easy access to the lake close to the main road.",
-        "ffl_marker_type": "point of interest"
+        "ffl_marker_type": "point of interest",
+        "URL": "",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
