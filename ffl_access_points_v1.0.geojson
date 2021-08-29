@@ -294,6 +294,111 @@
           -41.997078
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cressy Road",
+        "waterway_name": "Brumbys Creek",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Flat water and the easiest access, from here you may walk upstream or downstream and encounter rising fish.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.082792,
+          -41.713017
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fisheries Lane",
+        "waterway_name": "Brumbys Creek",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Access to weir 1 where there is great sight fishing for cruising and rising fish.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.07131,
+          -41.7302
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meander Inlet",
+        "waterway_name": "Lake Huntsman",
+        "image_url": "",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "",
+        "URL": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.598119,
+          -41.700074
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "McNeill Bay",
+        "waterway_name": "Lake Huntsman",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.593991,
+          -41.691848
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Lake Huntsman",
+        "name": "Paynes Landing",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.599152,
+          -41.687409
+        ]
+      }
     }
   ]
 }
