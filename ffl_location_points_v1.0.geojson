@@ -882,6 +882,27 @@
           -37.75562584989249
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cairn Curran Reservoir",
+        "waterway_name": "Cairn Curran Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Cairn Curran Reservoir is a large dam located on the Loddon River west of the town of Castlemaine. The lake features many grassy shorelines, rocky edges, weed beds and standing timber. This is a unique lake in the way it is managed as mixed fishery...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/victoria/cairn-curran-reservoir",
+        "image_url": "https",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.990205,
+          -37.048065
+        ]
+      }
     }
   ]
 }
