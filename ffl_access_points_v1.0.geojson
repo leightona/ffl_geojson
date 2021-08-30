@@ -441,6 +441,46 @@
           -43.051499
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Burbury Camping Ground",
+        "waterway_name": "Lake Burbury",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Good shore based access and a boat ramp providing the best access to the northern part of the lake.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.673238,
+          -42.096338
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mount Jukes Road",
+        "waterway_name": "Lake Burbury",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Fantastic shore based fishing and features a boat ramp north of the Darwin Dam",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.62176,
+          -42.206578
+        ]
+      }
     }
   ]
 }
