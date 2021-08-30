@@ -756,6 +756,48 @@
           -41.359529
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corra Lynn",
+        "waterway_name": "North Esk River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A nice freestone section of water close to town that fishes well early season. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.222055,
+          -41.489513
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blessington Road",
+        "waterway_name": "North Esk River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Fantastic angler access thanks to land owners and IFS. Large amounts of nice running water and pools. Beware that it be a little tight in some sections.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4039,
+          -41.496585
+        ]
+      }
     }
   ]
 }
