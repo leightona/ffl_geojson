@@ -840,6 +840,69 @@
           -42.07408079249597
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Perth",
+        "waterway_name": "South Esk River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Below the weir there is nice flowing water, weed beds and flat water where you will encounter rising fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.183146,
+          -41.583854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Evandale",
+        "waterway_name": "South Esk River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A mix of shallow water holding smaller fish and deep water with some very nice sized brown trout. Good mayfly hatches and hopper fishing can occur here. ",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2019/09/south-esk-river-fly-fishing-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.239597,
+          -41.572862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Clarendon House",
+        "waterway_name": "South Esk River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Angler access via Clarendon House and the Australian Fly Fishing Museum. This area has lovely flat water with lush weed beds and plenty of rising fish.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/south-esk-river-clarendon-house-flylife-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.282246,
+          -41.63313
+        ]
+      }
     }
   ]
 }
