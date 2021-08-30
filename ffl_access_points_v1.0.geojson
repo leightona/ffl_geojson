@@ -693,6 +693,69 @@
           -41.586945145512544
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Liena",
+        "waterway_name": "Mersey River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A lovely open section of fast flowing  and relatively shallow water perfectly suited to nymph and dry fly fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.230644,
+          -41.550556
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Latrobe",
+        "waterway_name": "Mersey River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A very good section of river for early and late season. It features long runs and pools.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.417606,
+          -41.264729
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Merseylea",
+        "waterway_name": "Mersey River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Fantastic all round water that gives anglers the opportunity to fish nymphs, dries, wets and streamers.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.475272,
+          -41.359529
+        ]
+      }
     }
   ]
 }
