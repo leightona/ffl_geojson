@@ -472,13 +472,78 @@
         "state": "TAS",
         "waterway_type": "Lake",
         "description": "Fantastic shore based fishing and features a boat ramp north of the Darwin Dam",
-        "ffl_marker_type": "access"
+        "ffl_marker_type": "access",
+        "URL": "",
+        "image_url": ""
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           145.62176,
           -42.206578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Road Shore",
+        "description": "Lovely weed beds, some rocks, a good mayfly spinner shoreline. When the water is high you can see tailing trout along the shoreline. ",
+        "waterway_name": "Little Pine Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.598028,
+          -42.006199
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Untouchables Shore",
+        "waterway_name": "Little Pine Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "A nice grassy shoreline with weed. This area all the way along the shore to the north is a great spot for tailing trout. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.588702,
+          -42.00701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cricket Pitch / Shack Shore",
+        "waterway_name": "Little Pine Lagoon",
+        "state": "TAS",
+        "country": "AU",
+        "waterway_type": "Lake",
+        "description": "A fantastic shore based spot by day or evening. It is very common to find rising fish along this shoreline mopping up mayfly. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.61012,
+          -41.998734
         ]
       }
     }
