@@ -798,6 +798,48 @@
           -41.496585
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Boat Ramp",
+        "waterway_name": "Pine Tier Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Boat launching facility providing convenient access to the lake.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.485163,
+          -42.082601
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Pine River Inlet",
+        "waterway_name": "Pine Tier Lagoon",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "Lake",
+        "description": "Very accessible shoreline for casting from the bank. Rising fish can often be found in this shallow bay.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.4854335784912,
+          -42.07408079249597
+        ]
+      }
     }
   ]
 }
