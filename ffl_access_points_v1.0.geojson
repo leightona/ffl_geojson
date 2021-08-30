@@ -609,6 +609,90 @@
           -41.681784
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Meander Town",
+        "waterway_name": "Meander River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A nice mix of flatter water below the bridge providing good dry fly fishing and above the bridge pocket water lending itself to both dry fly and nymph fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6169467,
+          -41.6499033
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Long Ridge Road",
+        "waterway_name": "Meander River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A mix of runs and pools with a few sections of large boulders and pocket water.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6351594,
+          -41.5820838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cheshunt Road Bridge",
+        "waterway_name": "Meander River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Beautiful runs and pools perfectly suited for dry fly and nymph below dry fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.6191125,
+          -41.6247421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Blue Gums",
+        "waterway_name": "Meander River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Angler access to a section of the Meander that has continuous glides and pools where rising fish can often be found.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.61563873291016,
+          -41.586945145512544
+        ]
+      }
     }
   ]
 }
