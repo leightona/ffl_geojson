@@ -399,6 +399,48 @@
           -41.687409
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lonnavale Rd",
+        "waterway_name": "Huon River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Wide open sections of runs, deep pools, boulders and pockets. There is days of fishing to be had through this section.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.883,
+          -42.992388
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Estuarine Area",
+        "waterway_name": "Huon River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Below Huonville here you will find sea trout following and feeding on the baitfish. A boat can be very helpful when fishing this section.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.042511,
+          -43.051499
+        ]
+      }
     }
   ]
 }
