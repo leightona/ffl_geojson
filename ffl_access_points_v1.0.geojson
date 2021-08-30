@@ -546,6 +546,69 @@
           -41.998734
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Macquarie Road",
+        "waterway_name": "Macquarie River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Nice flat water where you can walk the south east bank and encounter rising fish.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.391259,
+          -41.907808
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Barton Road",
+        "waterway_name": "Macquarie River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A typical section of the Macquarie, this area features both wide sections with shallow margins and narrow sections. This is great mix of water for the fly angler.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.259851,
+          -41.826016
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cressy",
+        "waterway_name": "Macquarie River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Deeper water but with some flow created by the weir. This area holds some big brown trout.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.093772,
+          -41.681784
+        ]
+      }
     }
   ]
 }
