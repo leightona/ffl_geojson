@@ -1092,6 +1092,27 @@
           -37.041212
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Springhill Road bridge ",
+        "waterway_name": "Coliban River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Medium - slow paced water suited to dry and nymph below dry.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.36403,
+          37.319353
+        ]
+      }
     }
   ]
 }
