@@ -966,6 +966,48 @@
           -41.309461
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Mt Field",
+        "waterway_name": "Tyenna River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A lovely section of river at the base of Mt Field National Park, it holds big numbers of small to medium sized brown trout.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/tyenna-river-flylife3-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.719035,
+          -42.682475
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Westerway",
+        "waterway_name": "Tyenna River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "One of the most popular areas to fish and for good reason. There is a great mix or dry fly and nymph fishing here.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/tyenna-river-flylife2-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.790189,
+          -42.673941
+        ]
+      }
     }
   ]
 }
