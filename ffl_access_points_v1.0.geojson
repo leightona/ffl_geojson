@@ -1008,6 +1008,48 @@
           -42.673941
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eddy Road",
+        "waterway_name": "Weld River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A deep flat section, however there are runs above and below this access point. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.743766,
+          -43.041542
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Track access",
+        "waterway_name": "Weld River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "A walk is required to get to the river, but it well worth it with a nice mix of water above and below.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.728649,
+          -43.029979
+        ]
+      }
     }
   ]
 }
