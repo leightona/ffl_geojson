@@ -1050,6 +1050,48 @@
           -43.029979
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Woolshed Bay",
+        "waterway_name": "Cairn Curran Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "A nice bay with gradually sloping shorelines with grass, rocks and sand. There is also a boat ramp located at the northern and souther points of the bay. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.975533,
+          -37.002156
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Picnic Point",
+        "waterway_name": "Cairn Curran Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Around the Picnic Point area there are a mix of grassy shorelines, rocky points and standing and fallen timber. There is also a boat ramp located here.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.980414,
+          -37.041212
+        ]
+      }
     }
   ]
 }
