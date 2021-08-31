@@ -903,6 +903,69 @@
           -41.63313
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nunamara",
+        "waterway_name": "St Patricks River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Pools and shallow riffles that are very typical of the St Patricks River.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.303473,
+          -41.393346
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Corkerys Road",
+        "waterway_name": "St Patricks River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Very good water with runs, riffles and pools. A mix of tight/ intimate water and open flatter water. ",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/st-patricks-river-flylife-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.4072399,
+          -41.2935101
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Targa Hill Road",
+        "waterway_name": "St Patricks River",
+        "country": "AU",
+        "state": "TAS",
+        "waterway_type": "River",
+        "description": "Overgrown and pokey water for the angler who enjoys fishing with a shorter rod. There are some very nice fish through this area.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.370611,
+          -41.309461
+        ]
+      }
     }
   ]
 }
