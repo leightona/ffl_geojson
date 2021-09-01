@@ -1113,6 +1113,48 @@
           -37.319335
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bourke Street",
+        "waterway_name": "Eildon Pondage",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Probably the most popular fishing location on the lake, there is a nice embankment allowing access to the water and good casting room. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.899214,
+          -37.245089
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Southern shore point",
+        "waterway_name": "Eildon Pondage",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "A good example of a nice point and drop off to search around or look for moving fish.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.914054,
+          -37.236118
+        ]
+      }
     }
   ]
 }
