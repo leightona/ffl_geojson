@@ -1159,7 +1159,7 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Haeldene",
+        "name": "Hazeldene",
         "waterway_name": "King Parrot Creek",
         "country": "AU",
         "state": "VIC",
@@ -1174,6 +1174,27 @@
         "coordinates": [
           145.288631,
           -37.344295
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Fyans Inlet Channel",
+        "waterway_name": "Lake Fyans",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "lake",
+        "description": "A gradual shoreline suitable for wading with submerged trees and reeds where mouching trout can often be found.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/lake-fyans-inlet-channel-flylife-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          142.60985,
+          -37.141
         ]
       }
     }
