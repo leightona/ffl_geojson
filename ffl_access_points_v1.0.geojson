@@ -1155,6 +1155,27 @@
           -37.236118
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Haeldene",
+        "waterway_name": "King Parrot Creek",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Creek",
+        "description": "A nice mix of fast and medium paced water suitable for dry fly or nymph fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.28732,
+          -37.330338
+        ]
+      }
     }
   ]
 }
