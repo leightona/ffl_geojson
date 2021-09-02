@@ -1512,6 +1512,48 @@
           -37.4106132140258
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bright",
+        "waterway_name": "Ovens River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Fantastic dry and nymph below dry water close to town. This section holds a larger number of fish.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/ovens-river-near-bright-flylife-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.999351,
+          -36.727375
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tawonga Gap Road Bridge",
+        "waterway_name": "Ovens River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Nice shallow running dry fly water. This little section and further upstream can be a bit tight at times. ",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/ovens-river-rainbow-flylife-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.014401,
+          -36.742284
+        ]
+      }
     }
   ]
 }
