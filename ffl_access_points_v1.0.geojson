@@ -1407,6 +1407,47 @@
           -37.844707
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cobungra Track",
+        "waterway_name": "Mitta Mitta River (Upper)",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A typical mix of runs, pools and fast flowing broken water.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/mitta-mitta-big-river-brown-fitzgerald-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.518159,
+          -36.990045
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Big River (Upper Mitta Mitta)",
+        "name": "Big River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A great example of typical Big River water. It lends itself to both nymph and dry fly fishing. ",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/mitta-mitta-big-river-adem-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.488528,
+          -36.975219
+        ]
+      }
     }
   ]
 }
