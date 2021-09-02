@@ -1439,7 +1439,8 @@
         "waterway_type": "River",
         "description": "A great example of typical Big River water. It lends itself to both nymph and dry fly fishing. ",
         "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/mitta-mitta-big-river-adem-2560-300x200.jpg",
-        "ffl_marker_type": "access"
+        "ffl_marker_type": "access",
+        "URL": ""
       },
       "geometry": {
         "type": "Point",
