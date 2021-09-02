@@ -1239,6 +1239,90 @@
           -38.285949
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The South West Platforms",
+        "waterway_name": "Lake Wendouree",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Fishing platforms and a nice walkable shoreline.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.826994,
+          -37.556289
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Shoreline",
+        "waterway_name": "Lake Wendouree",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "The eastern shoreline is a nice weedy and rocky shoreline with heaps of water and good fishing.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.844355,
+          -37.548538
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "South Eastern Bays",
+        "waterway_name": "Lake Wendouree",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "The south eastern area of the lake provides some of the most reliable boat based fishing.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/lake-wendouree-luke-barby-2560-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.838344,
+          -37.553022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Ballarat Fly Fishers Club",
+        "waterway_name": "Lake Wendouree",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Formed in 1919 the BFFC is one of the oldest fly clubs in Australia.",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/lake-wendouree-ballarat-fly-fishers-club-2560-500x250.jpg",
+        "URL": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.837521,
+          -37.555619
+        ]
+      }
     }
   ]
 }
