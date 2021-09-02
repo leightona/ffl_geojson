@@ -1365,6 +1365,48 @@
           -36.930923
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Poplars Camp Ground",
+        "waterway_name": "Loch River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Small and tight water with lots of small brown trout. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.993678,
+          -37.820456
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gunns Road",
+        "waterway_name": "Loch River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Typical small Loch River water. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.991798,
+          -37.844707
+        ]
+      }
     }
   ]
 }
