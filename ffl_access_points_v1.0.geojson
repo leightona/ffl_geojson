@@ -1184,7 +1184,7 @@
         "waterway_name": "Lake Fyans",
         "country": "AU",
         "state": "VIC",
-        "waterway_type": "lake",
+        "waterway_type": "Lake",
         "description": "A gradual shoreline suitable for wading with submerged trees and reeds where mouching trout can often be found.",
         "URL": "",
         "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/lake-fyans-inlet-channel-flylife-2560-300x200.jpg",
@@ -1195,6 +1195,48 @@
         "coordinates": [
           142.60985,
           -37.141
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Swamp/Marsh",
+        "waterway_name": "Lake Purrumbete",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "The shallow marshy area at the southern end of the lake provides sum on the best fishing, it has a great mix of weed beds, rocks, reeds and tussocks. ",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/lake-purrumbete-southern-marsh-flylife-2560-500x250.jpg",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.222384,
+          -38.291819
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "The Quarry",
+        "waterway_name": "Lake Purrumbete",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "The eastern shoreline has great water for the shore based angler, it is wadable, but the fish cruise the weed edges close to the shore here.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/08/lake-purrumbete-eastern-shore-flylife-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          143.244579,
+          -38.285949
         ]
       }
     }
