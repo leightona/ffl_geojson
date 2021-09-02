@@ -1449,6 +1449,69 @@
           -36.975219
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eastern Shore",
+        "waterway_name": "Newlyn Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Nice grassy and rocky shoreline with plenty go good weed beds.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/newlyn-reservoir-brown-cruncher-flylife-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.010199,
+          -37.406117
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Shore",
+        "waterway_name": "Newlyn Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "A good rocky shoreline with some grass near the car park, this area has good rising fish in the evening in light winds. ",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/newlyn-reservoir-northern-shore-flylife-2560-500x250.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.005002,
+          -37.403854
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Shore",
+        "waterway_name": "Newlyn Reservoir",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/newlyn-reservoir-western-shore-flylife-2560-300x200.jpg",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          144.00634288787842,
+          -37.4106132140258
+        ]
+      }
     }
   ]
 }
