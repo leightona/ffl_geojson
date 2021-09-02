@@ -1323,6 +1323,48 @@
           -37.555619
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Shoreline",
+        "waterway_name": "Lake William Hovell",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "The western shoreline has nice gradually sloping banks where plenty of trout cruise. This is great dry fly and wet fly water.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.387673,
+          -36.922083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "King River Arm",
+        "waterway_name": "Lake William Hovell",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "The river arm can be very good in Autumn and through winter as fish begin pushing up getting ready to spawn in the river. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "point of interest"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.391189,
+          -36.930923
+        ]
+      }
     }
   ]
 }
