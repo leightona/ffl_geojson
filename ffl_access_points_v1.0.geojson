@@ -1554,6 +1554,110 @@
           -36.742284
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Northern Point",
+        "waterway_name": "Rocky Valley Storage",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "A good example of a rocky shore and point that produces fish by bank or boat. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.301354,
+          -36.87588
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Easter Point",
+        "waterway_name": "Rocky Valley Storage",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Another good rocky shoreline and point that is easy to access from the bank. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          147.313104,
+          -36.872806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tumbling Water",
+        "waterway_name": "Rubicon River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Good runs and pools, perfectly suiting to dry fly and nymph fishing. A great spot for a quick fish with the family. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.79935,
+          -37.278541
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kendalls Campground",
+        "waterway_name": "Rubicon River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A beautiful section flowing through forest featuring many boulders, this is a great section for those who don’t mind some trees and complex currents. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.851942,
+          -37.309838
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Rubicon River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Consistent stretch of runs, pools and riffles - great hopper fishing in the warmer months.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/rubicon-river-fl93-david-anderson2-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.80219984054565,
+          -37.2830678152237
+        ]
+      }
     }
   ]
 }
