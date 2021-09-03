@@ -1607,7 +1607,7 @@
         "waterway_type": "River",
         "description": "Good runs and pools, perfectly suiting to dry fly and nymph fishing. A great spot for a quick fish with the family. ",
         "URL": "",
-        "image_url": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/rubicon-river-brown-fl93-david-anderson-300x200.jpg",
         "ffl_marker_type": "access"
       },
       "geometry": {
@@ -1649,13 +1649,56 @@
         "description": "Consistent stretch of runs, pools and riffles - great hopper fishing in the warmer months.",
         "URL": "",
         "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/rubicon-river-fl93-david-anderson2-300x200.jpg",
-        "ffl_marker_type": "access"
+        "ffl_marker_type": "access",
+        "name": "Rubicon Rd"
       },
       "geometry": {
         "type": "Point",
         "coordinates": [
           145.80219984054565,
           -37.2830678152237
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buxton",
+        "waterway_name": "Steavenson River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Nice flowing water in the middle of town. Perfectly suited to dry and nymph fishing. ",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.706835,
+          -37.425256
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Buxton-Marysville Road Bridge",
+        "waterway_name": "Steavenson River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Great runs, pools and pocket water above and below the bridge. ",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/steavenson-river-rainbow-fl93-david-anderson-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.735619,
+          -37.464899
         ]
       }
     }
