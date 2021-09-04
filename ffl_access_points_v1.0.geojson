@@ -1579,14 +1579,14 @@
     {
       "type": "Feature",
       "properties": {
-        "name": "Easter Point",
+        "name": "Eastern Point",
         "waterway_name": "Rocky Valley Storage",
         "country": "AU",
         "state": "VIC",
         "waterway_type": "Lake",
         "description": "Another good rocky shoreline and point that is easy to access from the bank. ",
         "URL": "",
-        "image_url": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/rocky-valley-storage-eastern-point-2560-500x250.jpg",
         "ffl_marker_type": "access"
       },
       "geometry": {
