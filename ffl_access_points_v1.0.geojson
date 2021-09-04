@@ -1701,6 +1701,48 @@
           -37.464899
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Falls Camp Ground 1",
+        "waterway_name": "Toorongo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "High gradient flowing water with nice boulders and pockets. This area has great nymphing and summer dry fly fishing",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/toorongo-river-fl92-david-anderson-2-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.041748,
+          -37.855154
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lower Toorongo",
+        "waterway_name": "Toorongo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A typically section of the river flowing through farmland. Suited to dry and nymph below dry fishing.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/toorongo-river-fl92-david-anderson-3-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          146.023312,
+          -37.902092
+        ]
+      }
     }
   ]
 }
