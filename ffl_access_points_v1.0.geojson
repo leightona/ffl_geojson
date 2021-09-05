@@ -1743,6 +1743,48 @@
           -37.902092
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Yarra River Upper",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Despite becoming close to town, a beautiful section with runs, pockets and nice pools all holding good numbers of fish.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/upper-yarra-river-warburton-fl85-chris-fiddes-2560-300x200.jpg",
+        "ffl_marker_type": "access",
+        "name": "Warburton Upper"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.701408,
+          -37.752407
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Yarra River Upper",
+        "name": "Little Peninsular Tunnel",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "A nice piece of water holding good numbers of fish, the river is a littler smaller and more overgrown up here when compared to the Warburton area. ",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/upper-yarra-river-brown-fl85-chris-fiddes-2560-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          145.807167,
+          -37.712437
+        ]
+      }
     }
   ]
 }
