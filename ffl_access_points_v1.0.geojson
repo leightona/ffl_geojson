@@ -1785,6 +1785,90 @@
           -37.712437
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thredbo Village",
+        "waterway_name": "Thredbo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The ultimate in 'gentrified' fly fishing with productive water right through the village and up past the golf course.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.30849885940552,
+          -36.502806142987836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Cascade Trail",
+        "waterway_name": "Thredbo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Great twigwater into the Thredbo headwaters with frisky rainbows eager to take a dry in summer.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.2642638683319,
+          -36.52340646212046
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Thredbo Diggings",
+        "waterway_name": "Thredbo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "The gradient slows here with big pools.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.42437028884888,
+          -36.446815273801505
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Lake Crackenback/Ski Tube",
+        "waterway_name": "Thredbo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Long riffles, glides and runs can be found following the riverside track downstream.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.44190120697021,
+          -36.437027818514444
+        ]
+      }
     }
   ]
 }
