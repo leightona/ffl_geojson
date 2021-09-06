@@ -1796,7 +1796,7 @@
         "waterway_type": "River",
         "description": "The ultimate in 'gentrified' fly fishing with productive water right through the village and up past the golf course.",
         "URL": "",
-        "image_url": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/thredbo-river-flylife-brown-2560-500x250.jpg",
         "ffl_marker_type": "access"
       },
       "geometry": {
@@ -1817,7 +1817,7 @@
         "waterway_type": "River",
         "description": "Great twigwater into the Thredbo headwaters with frisky rainbows eager to take a dry in summer.",
         "URL": "",
-        "image_url": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/thredbo-river-upper-flylife-2560-500x250.jpg",
         "ffl_marker_type": "access"
       },
       "geometry": {
@@ -1836,9 +1836,9 @@
         "country": "AU",
         "state": "VIC",
         "waterway_type": "River",
-        "description": "The gradient slows here with big pools.",
+        "description": "The gradient slows here with big pools and rising trout",
         "URL": "",
-        "image_url": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/thredbo-river-thredbo-diggings-campground-1920-300x200.jpg",
         "ffl_marker_type": "access"
       },
       "geometry": {
@@ -1859,7 +1859,7 @@
         "waterway_type": "River",
         "description": "Long riffles, glides and runs can be found following the riverside track downstream.",
         "URL": "",
-        "image_url": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/thredbo-river-crackenback-flylife-2560-500x250.jpg",
         "ffl_marker_type": "access"
       },
       "geometry": {
@@ -1867,6 +1867,48 @@
         "coordinates": [
           148.44190120697021,
           -36.437027818514444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Gaden Trout Hatchery",
+        "waterway_name": "Thredbo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Large pools and slower water allow risers to be spotted and fished too.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/gaden-hatchery-thredbo-river-dpi-nsw-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.57858657836914,
+          -36.37744791623752
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kosciuszko Rd Bridge",
+        "waterway_name": "Thredbo River",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "River",
+        "description": "Easy access via the picnic ground to the lower reaches of the Thredbo",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5888648033142,
+          -36.36975964606755
         ]
       }
     }
