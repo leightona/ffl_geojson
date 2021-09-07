@@ -910,7 +910,7 @@
         "name": "Thredbo River",
         "waterway_name": "Thredbo River",
         "country": "AU",
-        "state": "VIC",
+        "state": "NSW",
         "waterway_type": "River",
         "description": "The Thredbo River is a delightful river, highly suited to fly fishing for trout throughout its length. The river flows from its headwaters on the open plains above Thredbo ski village all the way down to Lake Jindabyne, with fishable water for the whole length...",
         "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/thredbo-river",
@@ -922,6 +922,27 @@
         "coordinates": [
           148.35585594177246,
           -36.47830972326979
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Eucumbene River",
+        "waterway_name": "Eucumbene River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Eucumbene River is a stunning fly fishing river. Like its cousin the Thredbo over the ridge, it has a great variety of water holding plenty of trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/eucumbene-river",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/eucumbene-river-fl99-david-anderson-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.54560613632202,
+          -35.93227231284252
         ]
       }
     }
