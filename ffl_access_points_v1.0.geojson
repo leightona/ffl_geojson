@@ -1911,6 +1911,90 @@
           -36.36975964606755
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dension Camp Ground",
+        "waterway_name": "Eucumbene River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Access to the lower reaches of the upper Eucumbene with open riffles and glides low down and more typical fly water upstream.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/eucumbene-river3-fl99-david-anderson-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.59946489334106,
+          -35.94413821807162
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Flying Fox",
+        "waterway_name": "Eucumbene River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The river emerges here from the bottom end of the gorge. The water up and downstream is a delight, just be aware the going can be tough, especially upstream in the gorge.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/eucumbene-river2-fl99-david-anderson-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.57075452804565,
+          -35.937378084475895
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Four Mile Track",
+        "waterway_name": "Eucumbene River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Four Mile Track provides access to the top of the gorge with wonderful steeper gradient fishing.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/eucumbene-river5-fl99-david-anderson-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.54087471961975,
+          -35.91880591461642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Kiandra",
+        "waterway_name": "Eucumbene River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "From the Snowy Mountain Hwy bridge up past Kindra the river turns to a meadow creek in the headwaters. The fishing here is great fun in the warmer months.",
+        "URL": "",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/eucumbene-river4-fl99-david-anderson-300x200.jpg",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.5029697418213,
+          -35.872290118356126
+        ]
+      }
     }
   ]
 }
