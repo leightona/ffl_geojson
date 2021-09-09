@@ -2058,6 +2058,48 @@
           -30.241799
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Western Bank",
+        "waterway_name": "Dumaresq Dam",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Lake",
+        "description": "Western bank is a great spot to prospect from land for cruising trout during low light.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.597306,
+          -30.429583
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "waterway_name": "Dumaresq Dam",
+        "name": "Northern End",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "Lake",
+        "description": "Northern end of the dam has flats that often hold trout, especially at dawn and dusk.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.600556,
+          -30.427417
+        ]
+      }
     }
   ]
 }
