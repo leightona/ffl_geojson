@@ -945,6 +945,27 @@
           -35.93227231284252
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Dumaresq Dam",
+        "waterway_name": "Dumaresq Dam",
+        "country": "AU",
+        "state": "VIC",
+        "waterway_type": "Lake",
+        "description": "Dumaresq Dam lies approximately 12km from the town of Armidale in the New England region of NSW. The dam was originally built in the 1890s for Armidale’s town water supply, but it now serves purely as a recreational hub for locals and visitors alike...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/dumaresq-dam",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/dumaresq-dam-satellite-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          151.598712,
+          -30.428718
+        ]
+      }
     }
   ]
 }
