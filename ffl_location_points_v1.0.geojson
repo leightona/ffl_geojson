@@ -952,7 +952,7 @@
         "name": "Dumaresq Dam",
         "waterway_name": "Dumaresq Dam",
         "country": "AU",
-        "state": "VIC",
+        "state": "NSW",
         "waterway_type": "Lake",
         "description": "Dumaresq Dam lies approximately 12km from the town of Armidale in the New England region of NSW. The dam was originally built in the 1890s for Armidale’s town water supply, but it now serves purely as a recreational hub for locals and visitors alike...",
         "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/dumaresq-dam",
@@ -964,6 +964,27 @@
         "coordinates": [
           151.598712,
           -30.428718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Nymboida River (upper)",
+        "waterway_name": "Nymboida River (upper)",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The mid to lower reaches of the Nymboida River are synonymous with big, wild bass and the endangered eastern cod. However, in its upper reaches, where it takes on the moniker ‘Coutts Water’, it is a reasonably productive little headwater for trout...",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/?preview=true",
+        "image_url": "",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.722265,
+          -30.101741
         ]
       }
     }
