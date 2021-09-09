@@ -1995,6 +1995,69 @@
           -35.872290118356126
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Waterfall Way TSR",
+        "waterway_name": "Nymboida River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "TSR adjacent to Waterfall Way.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.478702,
+          -30.348052
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Montrose Loop Rd",
+        "waterway_name": "Nymboida River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Public reserve adjacent to Waterfall Way.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.476222,
+          -30.350833
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Tyringham Road",
+        "waterway_name": "Nymboida River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Access off the Tyringham Road bridge.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          152.58531,
+          -30.241799
+        ]
+      }
     }
   ]
 }
