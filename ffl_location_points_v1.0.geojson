@@ -987,6 +987,27 @@
           -30.267129244099095
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swampy Plain River",
+        "waterway_name": "Swampy Plain River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The Swampy Plain River flows from the southern slopes of Mount Kosciuszko. Below Khancoban Dam, the lower Swampy becomes one of the Snow Valley's most highly regarded fly fishing rivers. As a tailwater, its conditions are somewhat reversed, flowing cold, high and swift in the warmer months when irrigation is needed and reducing in flow in the cooler periods.",
+        "URL": "https://flylife.com.au/fly-fishing/australia/new-south-wales/swampy-plain-river-lower",
+        "image_url": "https://flylife.com.au/wp-content/uploads/2021/09/swampy-plain-river-sharon-cloutier-2560-500x250.jpg",
+        "ffl_marker_type": "location"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0539035797119,
+          -36.197698354088416
+        ]
+      }
     }
   ]
 }
