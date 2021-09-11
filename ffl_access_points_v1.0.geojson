@@ -2100,6 +2100,90 @@
           -30.427417
         ]
       }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Peter's Memorial Park",
+        "waterway_name": "Swampy Plain River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Directly underneath the spillway of Khancoban Pondage, the river is fishable from here to the Murray.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.10754776000977,
+          -36.21680422685081
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Access Track",
+        "waterway_name": "Swampy Plain River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Provides access alongside a great stretch of wadable water when flows are suitable.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.09480458497998,
+          -36.20810024928566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Swampy Plains River Rd Bridge",
+        "waterway_name": "Swampy Plain River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "Below this bridge access becomes more difficult with private property bonding the river banks.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.07385921478271,
+          -36.2029016388272
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Bringenbrong Bridge",
+        "waterway_name": "Swampy Plain River",
+        "country": "AU",
+        "state": "NSW",
+        "waterway_type": "River",
+        "description": "The lower section of the Swampy is more difficult to access but you can fish back upstream from the entrance to the Murray just up from the bridge.",
+        "URL": "",
+        "image_url": "",
+        "ffl_marker_type": "access"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          148.0250859260559,
+          -36.16970203860236
+        ]
+      }
     }
   ]
 }
